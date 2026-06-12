@@ -784,6 +784,8 @@ section {
 .gallery-grid {
   column-count: 3;
   column-gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .gallery-item {
