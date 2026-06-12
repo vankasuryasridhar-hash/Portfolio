@@ -803,11 +803,11 @@ section {
 }
 
 .gallery-img:-webkit-full-screen {
-  object-fit: contain;
+  object-fit: contain !important;
 }
 
 .gallery-img:fullscreen {
-  object-fit: contain;
+  object-fit: contain !important;
 }
 
 .gallery-overlay {
